@@ -11,7 +11,7 @@ This script transforms a Linux device (likely a Raspberry Pi or a headless serve
 # Security Note
 This script automatically trusts and authorizes Bluetooth devices that attempt to connect14. It is intended for controlled environments where manual pairing interaction is impossible
 # Prerequisites
-- OS: A Debian-based Linux distribution (Ubuntu, Raspberry Pi OS, Debian).
+- OS: For automated setup - Debian-based Linux distribution (Ubuntu, Raspberry Pi OS, Debian) or any Linux distro (but the configuration should be perfomed manually).
 - Hardware: A device with a working Bluetooth adapter and network connection.
 - Permissions: You must have sudo access.
 # Installation
