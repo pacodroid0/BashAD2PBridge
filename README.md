@@ -1,5 +1,5 @@
-# BashAD2PBridge
-Script for bridging AD2P bluetooth audio strem on an network stream via bash commands.
+# BashA2DPBridge
+Script for bridging A2DP bluetooth audio strem on an network stream via bash commands.
 This script is designed to automate Bluetooth device pairing and management on Linux systems using bluetoothctl1 and route the audio stream to a network socket.
 The script initializes a background pairing agent with the following capabilities:
 - Automated Environment Setup: It disables existing agents before initializing a new KeyboardDisplay agent and setting it as the default3.
