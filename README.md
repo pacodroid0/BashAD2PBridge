@@ -15,7 +15,7 @@ This script automatically trusts and authorizes Bluetooth devices that attempt t
 - Hardware: A device with a working Bluetooth adapter and network connection.
 - Permissions: You must have sudo access.
 # Installation
-- Save the setup and main scripts to a local folder.
+- Donwnload and save the 5 .sh files in a local folder.
 - Make the setup script executable:
 "chmod +x setup.sh"
 - Run the setup script as Root
