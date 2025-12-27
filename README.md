@@ -26,11 +26,10 @@ This script automatically trusts and authorizes Bluetooth devices that attempt t
 # How to Use
 - Run the script (manually):
 "./main.sh"
-- Select Codec: When prompted, choose your audio format:
+- Select Codec: When prompted, choose your audio format (Note: If you don't choose within 3 seconds, it defaults to your last choice.):
     - Press 1 for WAV (Best for local WiFi, near-instant audio but high bandwidth).
     - Press 2 for OPUS (Best for slower networks).
     - Press 3 for MP3 (Best if your player checks compatibility).
-  Note: If you don't choose within 3 seconds, it defaults to your last choice.
 - Connect your Phone:
   On your mobile device, open Bluetooth settings.
   Look for a device name (usually your Linux hostname, e.g., raspberrypi).
